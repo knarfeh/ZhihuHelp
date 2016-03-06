@@ -221,23 +221,10 @@ pip-log.txt
 ReadList.txt
 misc.xml
 *.db
+*.sqlite3
 *.ini
 zhihuhelp1.7.0/我是登陆知乎时的验证码.gif
 .idea/workspace.xml
 我是登陆知乎时的验证码.gif
 
-*.jpg
 
-*.xml
-
-*.xhtml
-
-*.epub
-
-*.opf
-
-*.ncx
-
-*.html
-
-*.css
